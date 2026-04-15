@@ -66,19 +66,15 @@ speakers:
         url: 'https://phpc.social/@heiglandreas'
     type: 'Talk'
 
-  - name: 'TBD'
+  - name: 'Sebastian Bergmann'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      I am Sebastian Bergmann, the creator of PHPUnit, the testing framework that set the standard for professional PHP development. Since 2000, my work has helped developers worldwide write better, more reliable software.
+    image: '/assets/images/speakers/sebastian-bergmann.jpeg'
     talk:
-      title: 'TBD'
+      title: 'tbd.'
       abstract: |
-        TBA
+        following
     social:
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
     type: 'Talk'
 
   - name: 'TBD'
