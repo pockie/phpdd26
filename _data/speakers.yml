@@ -127,19 +127,3 @@ speakers:
       - icon: 'mastodon'
         url: 'https://phpc.social/@phpugdd'
     type: 'Talk'
-
-  - name: 'TBD'
-    bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
-    talk:
-      title: 'TBD'
-      abstract: |
-        TBA
-    social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
