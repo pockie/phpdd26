@@ -1,12 +1,16 @@
 moderators:
-  - name: 'TBD'
+  - name: 'Anke Häslich'
     description: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      For the past two years, Anke has been moderating NEOSCON, a community conference for the open source CMS NEOS. 
+      
+      As a dedicated developer at QUEO Group, Anke also likes to think outside the box and helps organise local meetups as well as motivating others to get involved in the community.
+      
+      We are very happy that Anke will guide us through the event on this special day!
+    image: '/assets/images/speakers/anke-haeslich.jpg'
     social:
       - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+        url: 'https://twitter.com/ahaeslich'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+        url: 'https://www.linkedin.com/in/anke-h%C3%A4slich-577b55262/'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://neos.social/@anke'

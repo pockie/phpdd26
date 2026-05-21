@@ -6,19 +6,33 @@ schedule:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Anke Häslich & Michael Pokladek'
     time: '09:00'
     topic: 'Opening'
     card:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Sebastian Kurfürst'
     time: '09:30'
-    topic: 'Session 1'
-    card: '1'
+    topic: 'Keynote'
+    card: '2'
     language: 'en'
-    speaker: false
+    speaker: true
+
+  - name: 'Marco Pivetta (Ocramius)'
+    time: '10:15'
+    topic: 'Reliable, Reproducible, Immutable'
+    card: '8'
+    language: 'en'
+    speaker: true
+
+  - name: 'Florian Engelhardt'
+    time: '11:15'
+    topic: 'The Four Pillars of Observability'
+    card: '6'
+    language: 'en'
+    speaker: true
 
   - name: ''
     time: '12:00'
@@ -27,12 +41,19 @@ schedule:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Stephan Hochdörfer'
     time: '13:15'
-    topic: 'Session 2'
+    topic: 'Develop Faster, Not Harder: Accelerating development with Sylius Stack'
+    card: '1'
+    language: 'en'
+    speaker: true
+
+  - name: 'Carsten Windler'
+    time: '14:15'
+    topic: 'Serverless PHP with bref.sh'
     card: '3'
     language: 'en'
-    speaker: false
+    speaker: true
 
   - name: ''
     time: '15:00'
@@ -41,11 +62,32 @@ schedule:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Sebastian Bergmann'
     time: '15:30'
-    topic: 'Session 3'
+    topic: 'From Events to Insights: Testing and Documenting Event‑Based Software'
+    card: '5'
+    language: 'en'
+    speaker: true
+
+  - name: 'Volker Dusch'
+    time: '16:30'
+    topic: 'Securing the PHP Ecosystem'
     card: '7'
     language: 'en'
+    speaker: true
+
+  - name: 'Andreas Heigl'
+    time: '17:30'
+    topic: 'tbd.'
+    card: '4'
+    language: 'en'
+    speaker: true
+
+  - name: 'Anke Häslich & Michael Pokladek'
+    time: '18:15'
+    topic: 'Closing'
+    card:
+    language: ''
     speaker: false
 
   - name: ''

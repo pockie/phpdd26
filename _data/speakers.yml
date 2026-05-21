@@ -41,9 +41,9 @@ speakers:
       He currently works as a Principal Engineer at Plan A in Berlin, where he can combine writing code with a passion for fighting climate change. He is co-author of the book "Clean Code in PHP", which was published by Packt-Verlag in October 2022. He also regularly writes articles for specialist publications such as PHP Magazin and is an active speaker at developer conferences.
     image: '/assets/images/speakers/carsten-windler.jpg'
     talk:
-      title: 'tbd.'
+      title: 'Serverless PHP with bref.sh'
       abstract: |
-        following
+        Thanks to the open-source bref.sh project, we can run our code on AWS Lambda. This talk will provide you with the background information you need to decide if serverless PHP is right for you. We will then share insights and lessons learned from our experience of operating a customer-facing API with PHP, bref.sh and AWS API Gateway. You will learn about performance, cold-start latency, file-system limitations, code organisation, and much more. We will not only cover the positive aspects, but also the challenges we faced during implementation and the decisions we questioned in hindsight.
     social:
       - icon: 'linkedin'
         url: 'https://www.linkedin.com/in/cwindler'
@@ -71,59 +71,62 @@ speakers:
       I am Sebastian Bergmann, the creator of PHPUnit, the testing framework that set the standard for professional PHP development. Since 2000, my work has helped developers worldwide write better, more reliable software.
     image: '/assets/images/speakers/sebastian-bergmann.jpeg'
     talk:
-      title: 'tbd.'
+      title: 'From Events to Insights: Testing and Documenting Event‑Based Software'
       abstract: |
-        following
-    social:
-    type: 'Talk'
+        Event Storming fills the room with orange sticky notes. Event Sourcing records every state transition as an immutable fact. But then comes testing and suddenly all that domain clarity risks getting buried under technical ceremony.
 
-  - name: 'TBD'
+        It does not have to be this way.
+        
+        In this presentation, I will show how the concepts you already know from Event Storming map directly onto a testing approach that is precise, readable, and genuinely expressive. Domain Events become fixtures and assertions. Commands become the subject under test. Hotspots become edge cases. The Given/When/Then pattern stops being a buzzword and becomes a natural fit for an architecture that already thinks in terms of past events, present commands, and expected outcomes.
+        
+        But verification is only the beginning. When your tests speak the language of your domain, they can do more than pass or fail. I will demonstrate how the structured information captured during test execution can be used to automatically generate living documentation in Event Storming notation - closing the loop from collaborative modelling workshop back to the running system.
+      
+        The examples are written in PHP, but the patterns and principles are architectural, not linguistic. Whether your team works in Java, C#, Go, or any other language, the insight is the same: when you align your test framework with your architecture, testing transforms from a burden into a bridge.
+    social:
+      type: 'Talk'
+
+  - name: 'Florian Engelhardt'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      Proud dad of five kids, husband, Linux and Vim, PHP, Rust, software architect, technical consultant, 
+      geek and I'm getting shit done.
+    image: '/assets/images/speakers/florian-engelhardt.jpeg'
     talk:
-      title: 'TBD'
+      title: 'The Four Pillars of Observability'
       abstract: |
-        TBA
+        Achieving optimal performance and reliability requires more than monitoring, it demands observability. Discover how metrics, logging, tracing, and continuous profiling empower you to understand, debug, and optimize your application at every level. We'll explore each pillar and demonstrate how to instrument your PHP application for actionable insights. Real-world examples will leave you equipped to make your PHP applications observable, resilient, and performant.
     social:
       - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+        url: 'https://twitter.com/realFlowControl'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://phpc.social/@flowcontrol'
     type: 'Talk'
 
-  - name: 'TBD'
+  - name: 'Volker Dusch'
     bio: |
       TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+    image: 'https://thephp.foundation/assets/post-images/2026/ecosystem-security/volker-dusch.png'
     talk:
-      title: 'TBD'
+      title: 'Securing the PHP Ecosystem'
       abstract: |
-        TBA
+        Efforts of the PHP Foundation lead to a grant to support our ecosystem against a new wave of security issues and the maintainer struggles that come with it. This talk will showcase the work done on these issues and talk about concrete steps maintainers and organizations can take to keep their projects secure.
     social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+        url: 'https://www.linkedin.com/in/volker-dusch/'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://phpc.social/@edorian'
     type: 'Talk'
 
-  - name: 'TBD'
+  - name: 'Marco Pivetta (Ocramius)'
     bio: |
       TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+    image: 'https://phpconference.com/wp-content/uploads/2019/07/Marco-Pivetta.jpg'
     talk:
-      title: 'TBD'
+      title: 'Reliable, Reproducible, Immutable'
       abstract: |
-        TBA
+        This talk is about safe usage of build systems, what actions we have to take to improve their reliability, and an in-depth dive into how I personally approach extreme reproducibility nowadays.
     social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://mastodon.social/@ocramius/113979458286709263'
+      - icon: 'web'
+        url: 'https://ocramius.github.io/about/'
     type: 'Talk'
