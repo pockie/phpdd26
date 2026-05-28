@@ -36,6 +36,10 @@ sponsors:
     image: '/assets/images/sponsors/mpowr-it.webp'
     url: 'https://mpowr.it'
 
+  - name: 'PHPStan'
+    image: '/assets/images/sponsors/phpstan.webp'
+    url: 'https://phpstan.org'
+
   - name: '☝️ Your company logo here'
     image: 'https://dummyimage.com/300x300/fff/aaa'
     url: 'mailto:orga@phpug-dresden.org'
