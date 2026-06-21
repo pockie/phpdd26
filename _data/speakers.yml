@@ -26,9 +26,13 @@ speakers:
 
     image: '/assets/images/speakers/sebastian-kurfuerst.jpg'
     talk:
-      title: 'tbd.'
+      title: 'Speed is not velocity: AI, complexity, and our role as developer'
       abstract: |
-        following
+        We'll take a look at what AI is doing to our industry. Until now, we've only ever caused disruption for others, we've never really felt it ourselves. Now it's hitting us, and the conversation swings between gold-rush euphoria and panic.
+
+        No client has ever paid by the line of code. Yet here we are, celebrating how projects with hundreds of thousands of lines appear overnight: code nobody understands anymore.
+  
+        Drawing on the past year of experience, I'll show where AI makes me ten times more productive, where it only feels that way, and where it would drive me off the cliff if I let it. And what I do instead.
     social:
       - icon: 'mastodon'
         url: 'https://neos.social/@sebastian'
@@ -58,9 +62,11 @@ speakers:
       Besides his family and contributions to different open-source-projects he still finds the time to co-run PHPUGFFM, the PHP-Usergroup in Frankfurt/Main and maintain PHP.ug.
     image: '/assets/images/speakers/andreas-heigl.jpg'
     talk:
-      title: 'tbd.'
+      title: 'Free beer and the community'
       abstract: |
-        following
+        Free as in Beer is always something that attracts people. But what does this "free" actually mean? Are there possibly strings attached? And how does that relate to Free as in speech?
+  
+        Let's go onto a journey to explore the advantages as well as the disadvantages of Free things and how they influence but also are influenced by a community. To make the best out of it for ourselves
     social:
       - icon: 'mastodon'
         url: 'https://phpc.social/@heiglandreas'
