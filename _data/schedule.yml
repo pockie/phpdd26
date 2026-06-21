@@ -15,7 +15,7 @@ schedule:
 
   - name: 'Sebastian Kurfürst'
     time: '09:30'
-    topic: 'Keynote'
+    topic: 'Speed is not velocity: AI, complexity, and our role as developer (Keynote)'
     card: '2'
     language: 'en'
     speaker: true
@@ -78,7 +78,7 @@ schedule:
 
   - name: 'Andreas Heigl'
     time: '17:30'
-    topic: 'tbd.'
+    topic: 'Free beer and the community'
     card: '4'
     language: 'en'
     speaker: true
