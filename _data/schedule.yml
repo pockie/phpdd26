@@ -71,7 +71,7 @@ schedule:
 
   - name: 'Volker Dusch'
     time: '16:30'
-    topic: 'Securing the PHP Ecosystem'
+    topic: 'Securing PHP in the LLM age'
     card: '7'
     language: 'en'
     speaker: true
