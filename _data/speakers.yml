@@ -112,10 +112,14 @@ speakers:
       TBD
     image: 'https://thephp.foundation/assets/post-images/2026/ecosystem-security/volker-dusch.png'
     talk:
-      title: 'Securing the PHP Ecosystem'
+      title: 'Securing PHP in the LLM age'
       abstract: |
-        Efforts of the PHP Foundation lead to a grant to support our ecosystem against a new wave of security issues and the maintainer struggles that come with it. This talk will showcase the work done on these issues and talk about concrete steps maintainers and organizations can take to keep their projects secure.
-    social:
+        How do we help maintainers deal with the rising number of security reports from LLM based security analysis? Can we scan through PHP libraries and projects ourselves to ensure good quality reports are there to help the ecosystem become more secure?
+        
+        Questions like these led The PHP Foundation to launch an Ecosystem Security Team. Kicked off by a grant from Alpha-Omega through the Linux Foundation, and drawing on findings from models like Fable/Mythos, we started working towards dealing with these new challenges.
+        
+        In this talk I will share the findings of the Team I'm leading and talk you through what we learned along the way and what suggestions we have and why.
+      social:
       - icon: 'linkedin'
         url: 'https://www.linkedin.com/in/volker-dusch/'
       - icon: 'mastodon'
