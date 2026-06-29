@@ -44,6 +44,10 @@ sponsors:
     image: '/assets/images/sponsors/phpcc.svg'
     url: 'https://thephpcc.academy'
 
+  - name: 'Ostec'
+    image: '/assets/images/sponsors/ostec.webp'
+    url: 'https://www.ostec.de/'
+
   - name: '☝️ Your company logo here'
     image: 'https://dummyimage.com/300x300/fff/aaa'
     url: 'mailto:orga@phpug-dresden.org'
